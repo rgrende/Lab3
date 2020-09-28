@@ -7,7 +7,7 @@ public class myGitTest {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Rakiah says Hello Git Test");/// TODO Auto-generated method stub
+		System.out.println("Rakiah says Hello from Branch AAAA");/// TODO Auto-generated method stub
 
 	}
 
