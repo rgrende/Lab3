@@ -8,7 +8,7 @@ public class myGitTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("Anna and Rakiah are both changing this message");/// TODO Auto-generated method stub
+		System.out.println("Rakiah and Anna have Successful Git Test");
 
 	}
 
